@@ -11,6 +11,19 @@ The system consists of a Raspberry Pi 5 microcomputer (8 GB RAM) and an Arduino 
 ## 🌐Displaying data
 The website was built with the Streamlit library and runs directly on the Raspberry Pi 5. Tailscale VPN is used to access the website from other networks.
 
+## 📸 Example app screenshots
+<table>
+  <tr>
+    <td><img src="screenshots/main1.jpg" width="240" height="720" /></td>
+    <td><img src="screenshots/main2.jpg" width="240" height="720" /></td>
+    <td><img src="screenshots/graph_hours.jpg" width="240" height="720" /></td>
+    <td><img src="screenshots/graph_hours_and_minutes.jpg" width="240" height="720" /></td>
+    <td><img src="screenshots/table_csv.jpg" width="240" height="720" /></td>
+  </tr>
+</table>
+
+
+
 ## 🚀Future of the project
 - Create a version for STM32.
 - Add a camera to monitor the child and stream the video on the website.
